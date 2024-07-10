@@ -5,4 +5,4 @@ const router = express.Router();
 
 router.get('/info',info_controller.info);
 
-module.exports = router;  
+module.exports = router;
